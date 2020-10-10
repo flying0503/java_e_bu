@@ -20,15 +20,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="611dc71d-c271-4e8b-905c-5c8c0ed5174b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/Aarrays/Arrays_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/my_interface/my_interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/my_interface/the_main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/my_interface/use_interface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/static_member/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/static_member/static_block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/static_member/static_member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/The_Thread/My_Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/The_Thread/The_Thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/animal/animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/animal/cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/animal/dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/animal/the_main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/equals_way/equals_way.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/final_word/the_final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/game/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/game/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/game/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/game/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/bhyn/string_static/string_trim.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_e_bu/cn/bhyn/string_static/The_object.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_e_bu/cn/bhyn/string_static/The_object.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_e_bu/cn/bhyn/Anonymous/Anonymous.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_e_bu/cn/bhyn/Anonymous/Anonymous.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_e_bu/cn/bhyn/my_interface/my_interface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_e_bu/cn/bhyn/my_interface/my_interface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_e_bu/cn/bhyn/my_interface/the_main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_e_bu/cn/bhyn/my_interface/the_main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_e_bu/cn/bhyn/person/person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_e_bu/cn/bhyn/person/person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_e_bu/cn/bhyn/person/person_run.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_e_bu/cn/bhyn/person/person_run.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_e_bu/cn/bhyn/person_arry/person_arry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_e_bu/cn/bhyn/person_arry/person_arry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/bhyn/Anonymous/Anonymous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/bhyn/Anonymous/Anonymous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/bhyn/my_interface/my_interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/bhyn/my_interface/my_interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/bhyn/my_interface/the_main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/bhyn/my_interface/the_main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/bhyn/person/person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/bhyn/person/person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/bhyn/person/person_run.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/bhyn/person/person_run.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/bhyn/person_arry/person_arry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cn/bhyn/person_arry/person_arry.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +81,21 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.the_main">
-    <configuration name="Arrays_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.bhyn.Aarrays.Arrays_" />
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="cn.bhyn.person" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.bhyn.game" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.string_trim">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.bhyn.game.Demo" />
       <module name="java_e_bu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.bhyn.Aarrays.*" />
+          <option name="PATTERN" value="cn.bhyn.game.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +103,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="The_object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.bhyn.string_static.The_object" />
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.bhyn.game.Demo2" />
       <module name="java_e_bu" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.bhyn.string_static.*" />
+          <option name="PATTERN" value="cn.bhyn.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="The_Thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.bhyn.The_Thread.The_Thread" />
+      <module name="java_e_bu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.bhyn.The_Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="equals_way" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.bhyn.equals_way.equals_way" />
+      <module name="java_e_bu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.bhyn.equals_way.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,21 +156,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="static_member" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.bhyn.static_member.static_member" />
-      <module name="java_e_bu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.bhyn.static_member.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="string_static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.bhyn.string_static.string_static" />
+    <configuration name="string_trim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.bhyn.string_static.string_trim" />
       <module name="java_e_bu" />
       <extension name="coverage">
         <pattern>
@@ -144,35 +182,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="the_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.bhyn.my_interface.the_main" />
-      <module name="java_e_bu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.bhyn.my_interface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.hello_world" />
       <item itemvalue="Application.the_main (1)" />
-      <item itemvalue="Application.Arrays_" />
-      <item itemvalue="Application.The_object" />
-      <item itemvalue="Application.static_member" />
-      <item itemvalue="Application.string_static" />
-      <item itemvalue="Application.the_main" />
+      <item itemvalue="Application.Demo2" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.equals_way" />
+      <item itemvalue="Application.The_Thread" />
+      <item itemvalue="Application.string_trim" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.the_main" />
-        <item itemvalue="Application.Arrays_" />
-        <item itemvalue="Application.static_member" />
-        <item itemvalue="Application.The_object" />
-        <item itemvalue="Application.string_static" />
+        <item itemvalue="Application.string_trim" />
+        <item itemvalue="Application.The_Thread" />
+        <item itemvalue="Application.equals_way" />
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -203,6 +228,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="452" y="94" width="1016" height="917" key="#Intentions" timestamp="1601192307308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="94" width="1016" height="917" key="#Intentions/0.0.1920.1040/1920.-152.1920.1040@0.0.1920.1040" timestamp="1601192307308" />
     <state x="2730" y="198" key="#Notifications" timestamp="1600926564325">
       <screen x="1920" y="-152" width="1920" height="1040" />
     </state>
@@ -211,51 +240,52 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="312" y="0" key="#Project_Structure/0.0.1920.1040/1920.-125.1920.1040@0.0.1920.1040" timestamp="1599009822113" />
-    <state x="640" y="352" key="#Updates" timestamp="1599111913144">
+    <state x="640" y="352" key="#Updates" timestamp="1601013056735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="352" key="#Updates/0.0.1920.1040/1920.-125.1920.1040@0.0.1920.1040" timestamp="1599111913144" />
+    <state x="640" y="352" key="#Updates/0.0.1920.1040/1920.-152.1920.1040@0.0.1920.1040" timestamp="1601013056735" />
     <state x="144" y="0" width="1106" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599011637098">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1598966442282" />
     <state x="144" y="0" width="1106" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-125.1920.1040@0.0.1920.1040" timestamp="1599011637098" />
-    <state x="718" y="155" key="#com.intellij.ide.util.MemberChooser" timestamp="1600904893203">
+    <state x="718" y="155" key="#com.intellij.ide.util.MemberChooser" timestamp="1601172263845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="718" y="155" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-152.1920.1040@0.0.1920.1040" timestamp="1600904893203" />
+    <state x="718" y="155" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-152.1920.1040@0.0.1920.1040" timestamp="1601172263845" />
     <state x="674" y="145" key="FileChooserDialogImpl" timestamp="1599011076503">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="449" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598966487986" />
     <state x="674" y="145" key="FileChooserDialogImpl/0.0.1920.1040/1920.-125.1920.1040@0.0.1920.1040" timestamp="1599011076503" />
-    <state width="1867" height="266" key="GridCell.Tab.0.bottom" timestamp="1600937929702">
+    <state width="1867" height="266" key="GridCell.Tab.0.bottom" timestamp="1602234312944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598971445935" />
     <state width="1867" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-125.1920.1040@0.0.1920.1040" timestamp="1599291552595" />
-    <state width="1867" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-152.1920.1040@0.0.1920.1040" timestamp="1600937929702" />
+    <state width="1867" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-152.1920.1040@0.0.1920.1040" timestamp="1602234312944" />
     <state width="1866" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598965056085" />
-    <state width="1867" height="266" key="GridCell.Tab.0.center" timestamp="1600937929702">
+    <state width="1867" height="266" key="GridCell.Tab.0.center" timestamp="1602234312944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598971445935" />
     <state width="1867" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-125.1920.1040@0.0.1920.1040" timestamp="1599291552595" />
-    <state width="1867" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-152.1920.1040@0.0.1920.1040" timestamp="1600937929702" />
+    <state width="1867" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-152.1920.1040@0.0.1920.1040" timestamp="1602234312944" />
     <state width="1866" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598965056085" />
-    <state width="1867" height="266" key="GridCell.Tab.0.left" timestamp="1600937929702">
+    <state width="1867" height="266" key="GridCell.Tab.0.left" timestamp="1602234312944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598971445935" />
     <state width="1867" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-125.1920.1040@0.0.1920.1040" timestamp="1599291552595" />
-    <state width="1867" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-152.1920.1040@0.0.1920.1040" timestamp="1600937929702" />
+    <state width="1867" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-152.1920.1040@0.0.1920.1040" timestamp="1602234312944" />
     <state width="1866" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598965056085" />
-    <state width="1867" height="266" key="GridCell.Tab.0.right" timestamp="1600937929702">
+    <state width="1867" height="266" key="GridCell.Tab.0.right" timestamp="1602234312944">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598971445935" />
     <state width="1867" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-125.1920.1040@0.0.1920.1040" timestamp="1599291552595" />
-    <state width="1867" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-152.1920.1040@0.0.1920.1040" timestamp="1600937929702" />
+    <state width="1867" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-152.1920.1040@0.0.1920.1040" timestamp="1602234312944" />
     <state width="1866" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598965056085" />
     <state x="195" y="0" key="SettingsEditor" timestamp="1600756011559">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -268,9 +298,14 @@
     </state>
     <state x="-537" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1598966665351" />
     <state x="593" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1598964880539" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1599017857843">
+    <state x="532" y="237" width="840" height="1034" key="run.anything.popup" timestamp="1601174580810">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="237" width="840" height="1034" key="run.anything.popup/0.0.1920.1040/1920.-152.1920.1040@0.0.1920.1040" timestamp="1601174580810" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1601192048876">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.-125.1920.1040@0.0.1920.1040" timestamp="1599017857843" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/1920.-152.1920.1040@0.0.1920.1040" timestamp="1601192048876" />
   </component>
 </project>

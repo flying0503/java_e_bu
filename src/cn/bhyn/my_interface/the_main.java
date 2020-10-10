@@ -9,5 +9,6 @@ public class the_main {
         usinter.methodAbs_3();
         usinter.methodAbs_4();
         usinter.methodAbs_5();      //调用默认方法
+        my_interface.methodAbs_6(); //直接调用静态方法
     }
 }

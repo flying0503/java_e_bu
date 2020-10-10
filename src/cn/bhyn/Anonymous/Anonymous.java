@@ -5,10 +5,10 @@ import java.util.Scanner;
 
 public class Anonymous {
     public static void main(String[] args) {
-        person one = new person("dc");
+        person one = new person("dc",0);
         one.sayHello("nbz");
 
-        new person("nbz").sayHello("dc");   //匿名对象，只能用一次
+        new person("nbz",0).sayHello("dc");   //匿名对象，只能用一次
 
         System.out.println(methodParam(new Scanner(System.in)));           //匿名对象传参,匿名传入，传出
     }
