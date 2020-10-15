@@ -16,7 +16,7 @@ public class UDP_Send implements Runnable {
         try {
             this.iaddress = iaddress;
             this.port = port;
-            this.socket = new DatagramSocket(this.port);
+            this.socket = new DatagramSocket();
         }catch (Exception e){
             e.printStackTrace();
         }
